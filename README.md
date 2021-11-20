@@ -9,3 +9,7 @@ How to run:
 4. Dataloader loads the data.
 
 Please refer to my blog to know more: https://blog.goodaudience.com/automatic-image-captioning-building-an-image-caption-generator-from-scratch-4bdd8744bc38?sk=0cd300a528a02be0596f3e042a82f7a4
+
+LinkedIn: https://www.linkedin.com/in/garima-nishad-9b8385134/
+
+Follow me on Twitter: https://twitter.com/garima__nishad
